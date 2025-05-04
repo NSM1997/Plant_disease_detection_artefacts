@@ -26,3 +26,7 @@ Dataset-2 : https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 We followed a custom transfer learning technique , first we trained the CNN model with the 1st datset , and saved the model and trained the pre-saved model with 2nd dataset
 giving the model more exposure to various types of diseases.
 
+
+**Report**
+
+We prepared a report of all our entire project in IEEE double columned format and attached to this repo.
