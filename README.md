@@ -46,4 +46,4 @@ To make it easy for the public who are accessing our repo i have saved the train
 
 Bucket Name : plant-disease-models.
 
-If you're not very sure on how to access from S3, do refer our doc 
+If you're not very sure on how to access from S3, do refer our doc [[Accessing S3](https://github.com/NSM1997/Plant_disease_detection_artefacts/blob/main/Configuring%20AWS%20and%20accessing%20datasets%20from%20S3%20bucket.pdf)]
