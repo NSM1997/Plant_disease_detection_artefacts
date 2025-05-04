@@ -29,10 +29,15 @@ giving the model more exposure to various types of diseases.
 **Key Skills**:
 
 Model : CNN
+
 Techniques : Transfer Learning
+
 Programming Language : Python
+
 Cloud : S3
+
 Frontend : Next.Js
+
 Backend : Fast API
 
 
