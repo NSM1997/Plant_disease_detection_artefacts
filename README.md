@@ -26,7 +26,24 @@ Dataset-2 : https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 We followed a custom transfer learning technique , first we trained the CNN model with the 1st datset , and saved the model and trained the pre-saved model with 2nd dataset
 giving the model more exposure to various types of diseases.
 
+**Key Skills**:
+
+Model : CNN
+Techniques : Transfer Learning
+Programming Language : Python
+Cloud : S3
+Frontend : Next.Js
+Backend : Fast API
+
 
 **Report**
 
 We prepared a report of all our entire project in IEEE double columned format and attached to this repo.
+
+**Note**:
+
+To make it easy for the public who are accessing our repo i have saved the trained models in my s3 bucket which was accessible. You can use our model directly insted of again training the CNN model on datasets.
+
+Bucket Name : plant-disease-models.
+
+If you're not very sure on how to access from S3, do refer our doc 
